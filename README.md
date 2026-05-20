@@ -90,7 +90,7 @@ s.close()
 </html>
 ```
 ## OUTPUT
-<img width="1066" height="358" alt="image" src="https://github.com/user-attachments/assets/b2985e70-09c6-4072-803c-9ed5f774bd7c" />
+<img width="1062" height="927" alt="image" src="https://github.com/user-attachments/assets/def876c2-3a3b-4f8b-a51e-5588cf6706ab" />
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
